@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33209.295
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VIber.Bot_ASP.NET.Core", "VIber.Bot_ASP.NET.Core.csproj", "{8170B55C-0B9B-4C33-9817-6227BF7C3324}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VIber.Bot_ASP.NET.CoreTests", "..\VIber.Bot_ASP.NET.CoreTests\VIber.Bot_ASP.NET.CoreTests.csproj", "{CB041F24-7E91-42E4-96D2-87683D28C1A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8170B55C-0B9B-4C33-9817-6227BF7C3324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8170B55C-0B9B-4C33-9817-6227BF7C3324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8170B55C-0B9B-4C33-9817-6227BF7C3324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8170B55C-0B9B-4C33-9817-6227BF7C3324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB041F24-7E91-42E4-96D2-87683D28C1A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB041F24-7E91-42E4-96D2-87683D28C1A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB041F24-7E91-42E4-96D2-87683D28C1A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB041F24-7E91-42E4-96D2-87683D28C1A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {329EA315-746C-449F-85EA-FE4F8E62A51F}
+	EndGlobalSection
+EndGlobal
